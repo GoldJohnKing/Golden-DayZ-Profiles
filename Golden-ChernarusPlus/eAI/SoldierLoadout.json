@@ -282,19 +282,19 @@
 		"ASVAL"
     ],
     "WeaponRifleMagCount": [
-        3,
-        5
+        0,
+        1
     ],
     "WeaponHandgun": [
         "MakarovIJ70"
     ],
     "WeaponHandgunMagCount": [
-        1,
-        3
+        0,
+        1
     ],
     "WeaponHealth": [
-        75,
-        100
+        25,
+        50
     ],
     "Loot": [
         "SodaCan_Cola",
