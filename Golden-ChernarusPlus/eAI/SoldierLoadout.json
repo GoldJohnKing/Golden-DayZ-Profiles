@@ -282,14 +282,14 @@
 		"ASVAL"
     ],
     "WeaponRifleMagCount": [
-        0,
+        1,
         1
     ],
     "WeaponHandgun": [
         "MakarovIJ70"
     ],
     "WeaponHandgunMagCount": [
-        0,
+        1,
         1
     ],
     "WeaponHealth": [
