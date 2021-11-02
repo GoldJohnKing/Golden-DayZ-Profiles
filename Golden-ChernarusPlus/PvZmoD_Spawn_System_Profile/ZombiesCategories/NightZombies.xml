@@ -5,7 +5,7 @@
 <types>
 	<type name="Global_Variables">
         <Activate 		Night_Zombies ="1"/>						<!-- Integer [0 or 1] -->
-        <Global_Ratio 	Night_Zombies ="1.25"/>						<!-- Decimal [0.0 infinite] -->
+        <Global_Ratio 	Night_Zombies ="1.5"/>						<!-- Decimal [0.0 infinite] -->
 		<OverRide_Vanilla_Night_Time	Activated 	= "0"		/> 	<!-- Integer [0 or 1] -->
         <Night_Beginning				Time 		= "20:00"	/> 	<!-- 24h time (set 20:30 not 8:30pm for example) -->
         <Night_End						Time 		= "06:00"	/>
