@@ -259,27 +259,15 @@
         "CivilianBelt"
     ],
     "ClothesHealth": [
-        25,
-        75
+        75,
+        100
     ],
     "WeaponMelee": [
-        "MeleeBat",
-        "FirefighterAxe",
-        "FirefighterAxe_Black",
-        "FirefighterAxe_Green",
-        "HuntingKnife",
-        "KitchenKnife",
-        "SteakKnife",
-        "StoneKnife",
-        "CombatKnife"
+        "MeleeBat"
     ],
     "WeaponRifle": [
         "M4A1",
-        "AK74",
-		"AKM",
-		"AK101",
-		"VSS",
-		"ASVAL"
+        "AKM"
     ],
     "WeaponRifleMagCount": [
         1,
@@ -293,8 +281,8 @@
         1
     ],
     "WeaponHealth": [
-        25,
-        75
+        75,
+        100
     ],
     "Loot": [
         "SodaCan_Cola",
@@ -310,18 +298,18 @@
         "Screwdriver"
     ],
     "LootChance": [
+        25,
+        50,
         100,
-        100,
-        100,
-        100,
-        100,
-        100,
-        100,
-        100
+        25,
+        25,
+        25,
+        25,
+        25
     ],
     "LootHealth": [
-        25,
-        75
+        75,
+        100
     ],
     "Locked": 0
 }
