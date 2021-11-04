@@ -110,7 +110,7 @@
             "m_randomradius": 2500.0
         },
         {
-            "m_locationname": "NWAF",
+            "m_locationname": "North West Airfield",
             "m_spawnlocation": [
                 4823.43017578125,
                 0.0,
@@ -128,29 +128,11 @@
             "m_randomradius": 2500.0
         },
         {
-            "m_locationname": "NEAF",
+            "m_locationname": "North East Airfield",
             "m_spawnlocation": [
                 11921.4296875,
                 0.0,
                 12525.5498046875
-            ],
-            "m_randomradius": 2500.0
-        },
-        {
-            "m_locationname": "Cherno",
-            "m_spawnlocation": [
-                6649.22021484375,
-                0.0,
-                2710.030029296875
-            ],
-            "m_randomradius": 2500.0
-        },
-        {
-            "m_locationname": "Elektro",
-            "m_spawnlocation": [
-                10553.5498046875,
-                0.0,
-                2313.3701171875
             ],
             "m_randomradius": 2500.0
         },
